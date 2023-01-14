@@ -3,7 +3,12 @@
 # recoded by: SANJU PAPPACHAN
 # github.com/Sanju8943/inshackle
 # If you use any part from this code, give me the credits, please, read the License
+#instagram_private_apihttps://www.instagram.com/%s\n
+======================
 
+e[1;77m[\e[0m\e[1;92m+\e[0m\e[1;77m] Instagram: \e[0m"
+https://www.instagram.com/%s\n
+A Python wrapper for the Instagram private
 
 string4=$(openssl rand -hex 32 | cut -c 1-4)
 string8=$(openssl rand -hex 32  | cut -c 1-8)
